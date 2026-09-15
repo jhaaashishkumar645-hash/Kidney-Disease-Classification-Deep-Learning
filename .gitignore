@@ -1,0 +1,22 @@
+# Virtual Environment
+kidney/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyd
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Project generated files
+artifacts/
+logs/
+research/logs/
+src/cnnClassifier.egg-info/
+
+# Dataset
+*.zip
